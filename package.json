@@ -7,6 +7,6 @@
   "type": "module",
   "dependencies": {
     "simple-git": "^3.28.0",
-    "tsx": "^4.20.2"
+    "tsx": "4.19.4"
   }
 }
