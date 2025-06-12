@@ -1,0 +1,12 @@
+{
+  "name": "tsx-function-bug",
+  "private": true,
+  "scripts": {
+    "start": "tsx index.ts"
+  },
+  "type": "module",
+  "dependencies": {
+    "simple-git": "^3.28.0",
+    "tsx": "^4.20.2"
+  }
+}
